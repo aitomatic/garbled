@@ -1,0 +1,6 @@
+apiVersion: v2
+name: "garbled-api"
+version: "0.0.1"
+description: API layer for garbled
+appVersion: "0.0.1"
+type: application

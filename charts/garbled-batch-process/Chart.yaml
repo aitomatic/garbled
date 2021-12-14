@@ -1,0 +1,6 @@
+apiVersion: v2
+name: garbled-batch-process
+version: "0.0.1"
+description: Batch Process App for garbled
+appVersion: "0.0.1"
+type: application
